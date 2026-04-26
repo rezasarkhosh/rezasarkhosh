@@ -6,7 +6,7 @@ MSc candidate in *ICT for Internet and Multimedia — Machine Learning for Healt
 
 - MSc at the University of Padova (2023–2026), with a research stay at **TalTech University**, Estonia (2025)
 - First-author paper accepted at **IEEE COMPSAC 2026** *(full paper, 28.5% acceptance rate)*: *Trust-Aware Client Scoring in Federated Learning via Contrastive Attention and Representation Clustering* — with Ben Yahia, Esposito, and Faiz
-- Active research collaborations across Italy, Estonia, Denmark, and the UAE
+- Active research collaborations across Italy, Estonia, Denmark
 - Based in Italy. Persian (native), English, Turkish, elementary Italian
 
 ## Research interests
