@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 296" width="900" height="296" role="img" aria-label="IEEE COMPSAC 2026 — Trust-Aware Client Scoring in Federated Learning via Contrastive Attention and Representation Clustering">
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="898" height="294" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .serif { font-family: Georgia, 'Times New Roman', Times, serif; }
+    .sans  { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="900" height="296" fill="#ffffff"/>
+    <rect width="9" height="296" fill="#0e7490"/>
+  </g>
+  <rect x="1" y="1" width="898" height="294" rx="14" fill="none" stroke="#d0d7de" stroke-width="1.5"/>
+
+  <text class="serif" x="48" y="62" font-size="30" font-weight="700" fill="#1f2328">IEEE COMPSAC 2026</text>
+  <line x1="48" y1="80" x2="852" y2="80" stroke="#d8dee4" stroke-width="1"/>
+  <text class="serif" x="48" y="110" font-size="15" fill="#656d76">2026  ·  pp. 609–618  ·  IEEE Computer Society</text>
+
+  <text class="serif" font-size="24" font-weight="700" fill="#1f2328">
+    <tspan x="48" y="154">Trust-Aware Client Scoring in Federated Learning via</tspan>
+    <tspan x="48" y="186">Contrastive Attention and Representation Clustering</tspan>
+  </text>
+
+  <text class="serif" x="48" y="224" font-size="17" font-style="italic" fill="#424a53"><tspan font-weight="700" fill="#1f2328">R. Sarkhosh</tspan>,  S. Ben Yahia,  Esposito,  A. Faiz</text>
+
+  <g class="sans" font-size="11.5" font-weight="700" letter-spacing="1">
+    <rect x="48" y="246" width="118" height="26" rx="13" fill="#ccfbf1"/>
+    <text x="107" y="263" text-anchor="middle" fill="#115e59">FIRST AUTHOR</text>
+    <rect x="176" y="246" width="250" height="26" rx="13" fill="#f6f8fa" stroke="#d0d7de"/>
+    <text x="301" y="263" text-anchor="middle" fill="#424a53">FULL PAPER · 28.5% ACCEPTANCE</text>
+  </g>
+  <text class="sans" x="446" y="264" font-size="13.5" fill="#656d76">doi: 10.1109/COMPSAC69091.2026.00086</text>
+</svg>
