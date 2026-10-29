@@ -4,7 +4,7 @@
 
 I'm a PhD researcher at **[Dublin City University](https://www.dcu.ie/)**, based in the **DCU Water Institute** and funded by the **Decarb-AI Centre**. Water systems are measured sparsely and noisily, yet they follow physics we understand well. I build **physics-informed neural networks (PINNs)** and hybrid physics–ML models that learn from limited sensor data while respecting conservation laws — for **water quality** and **hydrological hazards** such as floods and droughts. Supervised by Dr. Ali Intizar and Prof. Fiona Regan.
 
-Before the PhD I did an MSc in *ICT for Internet and Multimedia (ML for Healthcare)* at the **University of Padova**, with an Erasmus research stay at **TalTech**, Estonia, where I worked on a digital twin of the Baltic Sea coast. My MSc thesis on trust-aware federated learning became a first-author **IEEE COMPSAC 2026** paper.
+Before the PhD I did an MSc in *ICT for Internet and Multimedia (ML for Healthcare)* at the **University of Padova**, with an Erasmus research stay at **TalTech**, Estonia, where I worked on different projects including prototypes of digital twins for Baltic Sea coast and etc. My MSc thesis on trust-aware federated learning became a first-author **IEEE COMPSAC 2026** paper.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dublin_City_University-PhD-0b3a4a?style=for-the-badge" alt="Dublin City University">
