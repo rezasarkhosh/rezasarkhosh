@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Reza Sarkhosh — Physics-Informed Machine Learning for Water Resilience">
+  <img src="banner.svg" width="100%" alt="Reza Sarkhosh — Physics-Informed Machine Learning for Water Resilience">
 </p>
 
 I'm a PhD researcher at **[Dublin City University](https://www.dcu.ie/)**, based in the **DCU Water Institute** and funded by the **Decarb-AI Centre**. Water systems are measured sparsely and noisily, yet they follow physics we understand well. I build **physics-informed neural networks (PINNs)** and hybrid physics–ML models that learn from limited sensor data while respecting conservation laws — for **water quality** and **hydrological hazards** such as floods and droughts. Supervised by Dr. Ali Intizar and Prof. Fiona Regan.
