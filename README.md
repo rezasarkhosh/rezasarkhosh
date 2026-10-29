@@ -24,7 +24,7 @@ Before the PhD I did an MSc in *ICT for Internet and Multimedia (ML for Healthca
 ### 📄 Publications
 
 <a href="https://doi.org/10.1109/COMPSAC69091.2026.00086">
-  <img src="assets/pub-compsac2026.svg" width="100%" alt="IEEE COMPSAC 2026 — Trust-Aware Client Scoring in Federated Learning via Contrastive Attention and Representation Clustering">
+  <img src="pub-compsac2026.svg" width="100%" alt="IEEE COMPSAC 2026 — Trust-Aware Client Scoring in Federated Learning via Contrastive Attention and Representation Clustering">
 </a>
 
 <sub>MSc thesis: <a href="https://thesis.unipd.it/handle/20.500.12608/109309">Trust-Aware Client Scoring in Federated Learning via Contrastive Attention and Representation Clustering</a> — University of Padova, 2026</sub>
